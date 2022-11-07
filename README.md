@@ -5,7 +5,7 @@
 - MATLAB R2020a
 
 ## Notes
-- GaAs_Laser.xlsx is an open source degradation data set provided by [William Q. Meeker](https://www.wiley.com/en-us/Statistical+Methods+for+Reliability+Data,+2nd+Edition-p-9781118115459)
+- __GaAs_Laser.xlsx__ is an open source degradation data set provided by [William Q. Meeker](https://www.wiley.com/en-us/Statistical+Methods+for+Reliability+Data,+2nd+Edition-p-9781118115459)
 - EM_main.m is the main function for EM algorihtm, see technical details in Section 3.2 and Appendix A.1 of the paper
 - guess_EM.m provides the educated initial values of EM algorthm, see technical details in Appendix A.2 of the paper
 - ig_likeli.m calculates the log-likelihood function of Inverse Gaussian distribution
