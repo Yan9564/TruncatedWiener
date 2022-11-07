@@ -10,4 +10,4 @@
 - __guess_EM.m__ provides the educated initial values of model paraemters in EM algorthm, see technical details in Appendix A.2 of the paper
 - __ig_likeli.m__ calculates the log-likelihood function of Inverse Gaussian distribution
 - __partial_likeli_tau.m__ calculates the partial log-likehood function of $\tau$, see details in Equation (12) of the paper
-- __subplots.m__ is an open source code provided by [Pekka Kumpulainen](https://www.mathworks.com/matlabcentral/fileexchange/27991-tight_subplot-nh-nw-gap-marg_h-marg_w)
+- __subplots.m__ fills the figure with axes subplots with easily adjustable margins and gaps between the axes. This is an open source code provided by [Pekka Kumpulainen](https://www.mathworks.com/matlabcentral/fileexchange/27991-tight_subplot-nh-nw-gap-marg_h-marg_w)
