@@ -26,11 +26,6 @@ t = t';
 
 % parameter estimation
 % educated guess of parameter estimates
-tau0 = 600;
-beta0 = 0.0135;
-phi0 = 0.5;
-kai0 = 0.5;
-alpha0 = 0.002;
 [alpha0,beta0,tau0,kai0,phi0] = guess_EM(t,X);
 % set the number of iterations
 n_em = 100;
