@@ -1,6 +1,6 @@
 # TruncatedWiener
-- This is the code for paper :
-_Yan Bingxin, Wang Han, Ma Xiaobing. [Modeling left-truncated degradation data using random drift-diffusion Wiener processes](https://www.tandfonline.com/doi/abs/10.1080/16843703.2023.2187011), Quality Technology & Quantitative Management, 2023._
+- This is the code for the paper :
+_Yan, B., Wang, H., & Ma, X. (2023). [Modeling left-truncated degradation data using random drift-diffusion Wiener processes](https://www.tandfonline.com/doi/abs/10.1080/16843703.2023.2187011). Quality Technology & Quantitative Management, 1-24._
 
 ## Requirement
 - MATLAB R2020a
