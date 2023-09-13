@@ -12,3 +12,4 @@ _Yan, B., Wang, H., & Ma, X. (2023). [Modeling left-truncated degradation data u
 - __ig_likeli.m__ calculates the log-likelihood function of the Inverse Gaussian distribution
 - __partial_likeli_tau.m__ calculates the partial log-likelihood function of the truncation time parameter $\tau$. See details in Equation (12) of the paper
 - __subplots.m__ fills the figure with axes subplots with easily adjustable margins and gaps between the axes. This is an open-source code provided by [Pekka Kumpulainen](https://www.mathworks.com/matlabcentral/fileexchange/27991-tight_subplot-nh-nw-gap-marg_h-marg_w)
+- Email me if you have any questions: yanbingxin124@163.com
